@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/portfolio":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/portfolio","hostpath":"/Users/shelbystanton/Documents/GitHub/portfolio","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/shelbystanton/Documents/Homestead/portfolio","disabled":false,"__vagrantfile":true}}}
